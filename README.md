@@ -1,2 +1,2 @@
-# go-grpc-template
-A Exclusive Template For GoLang - gRPC.
+# go-docker-template
+A Exclusive Template For GoLang - Docker With Swarm.
