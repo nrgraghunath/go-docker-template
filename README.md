@@ -1,2 +1,2 @@
-# go-docker-template
-A Exclusive Template For GoLang - Docker With Swarm.
+# grpc-client-server
+A Exclusive Template For gRPC - SErver/ Client.
